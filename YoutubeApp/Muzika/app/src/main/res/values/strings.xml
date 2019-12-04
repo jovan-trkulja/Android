@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Muzika</string>
+
+    <array name="pesmeN">
+        <item>Ana Bekuta</item>
+        <item>Saban Saulic</item>
+        <item>Mile Kitic</item>
+        <item>Toma Zdravkovic</item>
+    </array>
+
+    <array name="pesmeZ">
+        <item>Natasa Bekvalac</item>
+        <item>Milica Todorovic</item>
+        <item>Milica Pavlovic</item>
+        <item>Rada Manojlovic</item>
+    </array>
+
+    <array name="pesmeR">
+        <item>Riblja Corba</item>
+        <item>Parni Valjak</item>
+        <item>Generacija 5</item>
+        <item>Viktorija</item>
+    </array>
+</resources>
