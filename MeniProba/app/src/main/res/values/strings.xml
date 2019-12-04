@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MeniProba</string>
+    <string name="action_settings">Settings</string>
+    <string name="dodaj_nesto">Dodaj nesto</string>
+    <string name="da">Da</string>
+    <string name="ne">Ne</string>
+
+    <string-array name="proizvodi">
+        <item>Jakna</item>
+        <item>Cizme</item>
+        <item>Sminka</item>
+        <item>Voce</item>
+        <item>Povrce</item>
+        <item>Tehnika</item>
+    </string-array>
+
+</resources>
